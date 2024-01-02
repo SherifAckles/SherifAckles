@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Sherif a seasoned frontend developer and a Python ROCKSTAR 
 
 <!--
 **SherifAckles/SherifAckles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,11 +12,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-##- 📫 How to reach me: ...
+📫 How to reach me: ... 
 ## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sherif-ackles) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19311796) 
 
 # 💻 Tech Stack:
